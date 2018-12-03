@@ -30,7 +30,12 @@ one unit ever made.  Not shared in this repository.
     * No known issues.
 
 
+<<<<<<< HEAD
 ## Designed by Circuit Monkey in Las Vegas, Nevada, USA
 Creative Commons Attribution, Share-Alike license, check license.txt for more information. Derivative of "Arduino Leonardo Reference design" (http://www.arduino.cc/en/Main/ArduinoBoardLeonardo)
+=======
+## Designed by Circuit Monkey
+MIT License.
+>>>>>>> 2a81e5fda4c45d648f762ef59328aa3b2a23b891
 
 All text above must be included in any redistribution
