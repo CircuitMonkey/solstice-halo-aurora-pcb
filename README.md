@@ -20,12 +20,17 @@ one unit ever made.  Not shared in this repository.
 
 * Rev. A - First revision meant for human consumption.
 
+* Rev. B - Fixed Vin and GND pins swapped. First for-sale version.
+
 
 #### Rev A. Issues:
   * Forgot to swap Vin and GND pins on HaLo connector.   Vin was dangerously close to GND mounting hole.  Was swapped on core StarFire board but we goofed in updating the Rev. A design for this board.  Solution for now is to pluck connector pins 1 and 2 out of HL4 passthrough connector prior to soldering.  Also, black sharpie the legend for those to pins.  Attempting to use these pins would short Vin to GND.
 
+#### Rev B. Issues:
+    * No known issues.
 
-## Designed by Circuit Monkey
+
+## Designed by Circuit Monkey in Las Vegas, Nevada, USA
 Creative Commons Attribution, Share-Alike license, check license.txt for more information. Derivative of "Arduino Leonardo Reference design" (http://www.arduino.cc/en/Main/ArduinoBoardLeonardo)
 
 All text above must be included in any redistribution
