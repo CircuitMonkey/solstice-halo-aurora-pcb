@@ -9,7 +9,7 @@ Format is EagleCAD 9.x schematic and board layout
 
 For more details, check out the product page at
 
-  * https://www.circuitmonkey.com/product/0740   ( [404 - not found] this link is not yet active)
+  * https://www.tindie.com/products/15591/
 
 
 ![PCB CAD Image](images/aurora-cad-image.png)
